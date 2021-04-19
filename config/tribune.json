@@ -1,0 +1,26 @@
+{
+    "TITLE": "TRIBUNE",
+
+    "URLS": [
+        "https://tribuneonlineng.com/news/",
+        "https://tribuneonlineng.com/business/",
+        "https://tribuneonlineng.com/columns/",
+        "https://tribuneonlineng.com/category/editorial/",
+        "https://tribuneonlineng.com/entertainment/",
+        "https://tribuneonlineng.com/politics/",
+        "https://tribuneonlineng.com/health/",
+        "https://tribuneonlineng.com/category/opinion/",
+        "https://tribuneonlineng.com/women/"
+
+
+    ],
+    "URL": [
+        "https://tribuneonlineng.com/news/"
+    ],
+    "TAG": ".pt-cv-title a._self",
+    "HEADLINE": ".single-post-title span.post-title",
+    "DATE": ".post-published b",
+    "AUTHOR": ".post-author-name b",
+    "PARAGRAPHS": ".entry-content > p span"
+
+}

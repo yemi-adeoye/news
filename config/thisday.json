@@ -1,0 +1,23 @@
+{
+    "TITLE": "THISDAY",
+
+    "URLS": [
+        "https://www.thisdaylive.com/index.php/business/",
+        "https://www.thisdaylive.com/index.php/politics/",
+        "https://www.thisdaylive.com/index.php/nigeria/",
+        "https://www.thisdaylive.com/index.php/health-wellbeing/",
+        "https://www.thisdaylive.com/index.php/life_and_style/",
+        "https://www.thisdaylive.com/index.php/sports/",
+        "https://www.thisdaylive.com/index.php/editorial/",
+        "https://www.thisdaylive.com/index.php/backpage/"
+    ],
+    "URL": [
+        "https://www.thisdaylive.com/index.php/business/"
+    ],
+    "TAG": "h3.entry-title a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": "time.entry-date",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".td-post-content p"
+
+}

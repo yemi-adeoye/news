@@ -1,0 +1,26 @@
+{
+    "TITLE": "THE NATION",
+
+    "URLS": [
+        "https://thenationonlineng.net/category/news/",
+        "https://thenationonlineng.net/category/politics/",
+        "https://thenationonlineng.net/category/business/",
+        "https://thenationonlineng.net/category/columnists/",
+        "https://thenationonlineng.net/category/sports2/sports-news/",
+        "https://thenationonlineng.net/category/entertainment/entertainment-3/",
+        "https://thenationonlineng.net/category/education-news-nigeria/",
+        "https://thenationonlineng.net/category/editorial/"
+
+
+
+    ],
+    "URL": [
+        "https://thenationonlineng.net/category/news/"
+    ],
+    "TAG": "h3.jeg_post_title a",
+    "HEADLINE": "h1.jeg_post_title",
+    "DATE": ".jeg_meta_date a",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".content-inner > p "
+
+}

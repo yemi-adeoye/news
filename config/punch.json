@@ -1,0 +1,23 @@
+{
+    "TITLE": "PUNCH",
+
+    "URLS": [
+        "https://www.punchng.com/topics/news/",
+        "https://www.punchng.com/topics/sports/",
+        "https://www.punchng.com/topics/metro-plus/",
+        "https://www.punchng.com/topics/entertainment/",
+        "https://www.punchng.com/topics/politics/",
+        "https://www.punchng.com/topics/business/",
+        "https://www.punchng.com/topics/editorial/",
+        "https://www.punchng.com/topics/columns/"
+    ],
+    "URL": [
+        "https://www.punchng.com/topics/news/"
+    ],
+    "TAG": "h3.entry-title a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": ".entry-date span",
+    "AUTHOR": "entry-author",
+    "PARAGRAPHS": "div.entry-content p"
+
+}

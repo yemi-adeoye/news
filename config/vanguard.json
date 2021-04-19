@@ -1,0 +1,22 @@
+{
+    "TITLE": "PUNCH",
+
+    "URLS": [
+        "https://www.vanguardngr.com/category/national-news/",
+        "https://www.vanguardngr.com/category/sports/",
+        "https://www.vanguardngr.com/category/politics/",
+        "https://www.vanguardngr.com/category/business/",
+        "https://www.vanguardngr.com/category/entertainment/",
+        "https://www.vanguardngr.com/category/editorial/",
+        "https://www.vanguardngr.com/category/viewpoints/"
+
+    ],
+    "URL": [
+        "https://www.vanguardngr.com/category/national-news/"
+    ],
+    "TAG": ".rtp-latest-news-title a",
+    "HEADLINE": "h1.entry-title",
+    "DATE": ".entry-date",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".post p"
+}
