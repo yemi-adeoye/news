@@ -17,7 +17,7 @@
     "URL": [
         "https://thenationonlineng.net/category/news/"
     ],
-    "TAG": "h3.jeg_post_title a",
+    "TAG": ".jeg_post_title a",
     "HEADLINE": "h1.jeg_post_title",
     "DATE": ".jeg_meta_date a",
     "AUTHOR": false,

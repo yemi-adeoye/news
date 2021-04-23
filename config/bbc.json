@@ -1,0 +1,20 @@
+{
+    "TITLE": "BBC",
+
+    "URLS": [
+        "https://www.bbc.com/news"
+
+
+
+
+    ],
+    "URL": [
+        "https://www.bbc.com/news"
+    ],
+    "TAG": ".gel-layout__item a",
+    "HEADLINE": "#main-heading",
+    "DATE": "header time",
+    "AUTHOR": false,
+    "PARAGRAPHS": "article p, article h2"
+
+}

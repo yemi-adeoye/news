@@ -2,9 +2,9 @@ from papers import punch
 
 # create an instance of the punch class
 myPunch = punch.Punch(
-    'config/thenation.json',
+    'config/bbc.json',
     'config/keywords.json',
-    'papers/cache/thenation.json')
+    'papers/cache/bbc.json')
 
 raw_news = myPunch.request()
 

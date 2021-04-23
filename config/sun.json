@@ -1,0 +1,24 @@
+{
+    "TITLE": "THE SUN",
+
+    "URLS": [
+        "https://www.sunnewsonline.com/category/national/",
+        "https://www.sunnewsonline.com/category/columns/",
+        "https://www.sunnewsonline.com/category/business/",
+        "https://www.sunnewsonline.com/category/politics/",
+        "https://www.sunnewsonline.com/category/entertainment/",
+        "https://www.sunnewsonline.com/category/sporting-sun/"
+
+
+
+    ],
+    "URL": [
+        "https://www.sunnewsonline.com/category/national/"
+    ],
+    "TAG": ".jeg_post_title a",
+    "HEADLINE": "h1.jeg_post_title",
+    "DATE": ".jeg_meta_date a",
+    "AUTHOR": false,
+    "PARAGRAPHS": ".content-inner > p "
+
+}

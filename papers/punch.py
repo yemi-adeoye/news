@@ -30,7 +30,7 @@ class Punch():
     def request(self, urls=None):
         news_accumulator = ''
         if not urls:
-            urls = self.config["URLS"]
+            urls = self.config["URL"]
 
         for url in urls:
             req = requests.get(url)
